@@ -1,0 +1,15 @@
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/bin/Debug/net6.0/Homework_6
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/bin/Debug/net6.0/Homework_6.deps.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/bin/Debug/net6.0/Homework_6.runtimeconfig.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/bin/Debug/net6.0/Homework_6.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/bin/Debug/net6.0/Homework_6.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.csproj.AssemblyReference.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.AssemblyInfoInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.AssemblyInfo.cs
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.csproj.CoreCompileInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/refint/Homework_6.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/Homework_6.genruntimeconfig.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/6/Homework6/Homework_6/obj/Debug/net6.0/ref/Homework_6.dll
